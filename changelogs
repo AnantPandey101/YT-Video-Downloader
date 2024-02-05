@@ -2,3 +2,8 @@ Version 1.0.0: (added on 01-Feb-2024)
 - A basic Youtube Video and Audio Downloader is built by using Python.
 - Audio and Video download buttons are added for downloading.
 - The Audio is downloaded of the format of '.mp3' and Video in '.mp4'.
+
+Version 1.0.1: (added on 01-Feb-2024)
+- Fixed the window size.
+- Fixed and reorder the buttons, entry link and added a label "YT U/A Downloader".
+- Made the GUI more appealing and easier to use.
