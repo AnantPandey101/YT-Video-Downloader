@@ -29,7 +29,7 @@ def Download_Progress():
 
 root = customtkinter.CTk()
 
-root.title("YT Downloader")
+root.title("YT Downloader 1.0.0")
 root.geometry('1080*480')
 
 link_dialogue_box = customtkinter.CTkEntry(root)
